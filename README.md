@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youry</h1>
-<h3 align="center">A head of development department at the fire alarm factory from Russia</h3>
+<h3 align="center">A head of development department @automations at the fire alarm factory from Russia</h3>
 
 - 🔭 I’m currently working on **plc automations**
 
