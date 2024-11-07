@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youry</h1>
-<h3 align="center">A head of development department @automations at the fire alarm factory from Russia</h3>
+<h3 align="center">Head of the development and implementation department for production @automations at the fire alarm factory from Russia</h3>
 
 - 🔭 I’m currently working on **plc automations**
 
@@ -23,4 +23,4 @@
 <a href="https://masterscada.ru/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Insat_Logo.jpg" alt="Masterscada" width="40" height="40"/> </a>
 
 </p>
-
+█ ░ █ ░ █ ░ 
